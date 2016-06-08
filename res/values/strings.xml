@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">rutasTec</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_ruta">RutaActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="rutaLb">Ruta</string>
+    <string name="latitud">Latitud</string>
+    <string name="longiud">Longitud</string>
+    <string name="lbLat">0</string>
+    <string name="lbLong">0</string>
+    <string name="Ruta">ruta</string>
+    <string name="on">on</string>
+    <string name="_0">0</string>
+    <string name="_02">0</string>
+
+</resources>
